@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  AIBox App Icon — 背景层
+  ─────────────────────────────
+  纯蓝色填充背景 (#4285F4 Material Blue 500)。
+  在 Android 12+ 启用动态取色（Monet）的系统中，
+  系统可能会根据壁纸调整背景色调。
+
+  设计说明:
+  - 蓝色传达科技感和信任感，与 AI 应用定位相符
+  - Viewport: 108x108dp，与前景层一致
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M0,0h108v108h-108z" />
+</vector>
